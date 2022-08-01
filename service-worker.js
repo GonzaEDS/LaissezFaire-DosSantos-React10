@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/LaissezFaire-DosSantos-React10/precache-manifest.fe99969e64690d2fb564a163d1abb9db.js"
+  "/LaissezFaire-DosSantos-React10/precache-manifest.8dccbba0a6b66c7dff72be6b6ee4e034.js"
 );
 
 workbox.clientsClaim();

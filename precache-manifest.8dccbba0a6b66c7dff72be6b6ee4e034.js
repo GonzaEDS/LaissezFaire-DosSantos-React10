@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "955777bed417c3e322f2",
+    "revision": "c649c673b387bc152762",
     "url": "/LaissezFaire-DosSantos-React10/static/css/main.b50e08a1.chunk.css"
   },
   {
-    "revision": "955777bed417c3e322f2",
-    "url": "/LaissezFaire-DosSantos-React10/static/js/main.4e394731.chunk.js"
+    "revision": "c649c673b387bc152762",
+    "url": "/LaissezFaire-DosSantos-React10/static/js/main.5c8936de.chunk.js"
   },
   {
     "revision": "1580cf3323df0dc2e8a9",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/LaissezFaire-DosSantos-React10/static/media/bootstrap-icons.a6a4862c.woff"
   },
   {
-    "revision": "f436db46498ac14a1e0e7a2af61c9dc3",
+    "revision": "eda3a7d8b812047fdb4e1a5d1cd48564",
     "url": "/LaissezFaire-DosSantos-React10/index.html"
   }
 ];
